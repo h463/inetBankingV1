@@ -4,7 +4,17 @@ public class SampleJava {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hello World");
+		int age = 10;
+		
+		if(age<18){
+			
+			System.out.println("Not Eligible for Vote");
+		}
+		else
+		{
+			System.out.println("Eligible for vote" );
+		}
+		
 
 	}
 
