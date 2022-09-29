@@ -8,7 +8,7 @@ public class SampleJava {
 		
 		if(age<18){
 			
-			System.out.println("Not Eligible for Vote");
+			System.out.println("Too Young : Not Eligible for Vote");
 		}
 		else
 		{
